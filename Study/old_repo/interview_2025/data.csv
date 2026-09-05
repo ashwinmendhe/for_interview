@@ -1,0 +1,11 @@
+id,name,department,gender,salary,joining_date,performance_score,is_active
+1,John Doe,IT,M,85000,2020-06-15,4.3,True
+2,Mary Smith,Finance,F,,2019-08-10,4.8,True
+3,Alex Johnson,HR,M,70000,2021-02-01,3.9,False
+4,Bob Lee,IT,M,80000,2022-03-20,,True
+5,Eve Adams,Marketing,F,78000,2020-11-05,4.6,True
+6,Linda Perez,Finance,F,91000,2018-12-25,4.9,True
+7,Tom Harris,Sales,M,67000,2021-09-10,3.7,True
+8,Sara Khan,,F,88000,2019-04-18,4.2,False
+9,Chris Brown,HR,M,72000,2022-05-25,3.8,True
+10,Nina Patel,Marketing,F,76000,2020-02-12,4.4,True

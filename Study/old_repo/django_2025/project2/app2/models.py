@@ -1,0 +1,8 @@
+from django.db import models
+
+# Create your models here.
+
+class Device(models.Model):
+    name = models.CharField(max_length=100)
+    version = models.FloatField()
+    brand = models.CharField(max_length=100)
